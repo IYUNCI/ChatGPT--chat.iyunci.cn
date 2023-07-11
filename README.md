@@ -1,12 +1,22 @@
 # ChatGPT--chat.iyunci.cn
-**介绍**
+# **介绍**
 
 基于ChatGPT 3.5 开发的数字方块AI
 
-**前端访问地址**： https://chat.iyunci.cn/
+
+
+**前端访问地址**：
+https://chat.iyunci.cn/
 
 **小程序**：
+
 ![gh_fda4038d9f8c_258](https://github.com/jiangwenhuang/ChatGPT/assets/36922629/56acc673-0da2-4b6e-bea7-844de9344038)
+
+# **功能**
+**上下文聊天**
+
+**敏感词过滤**
+
 
 
 **【数字方块主页面】**
@@ -25,3 +35,4 @@
 ![image](https://github.com/jiangwenhuang/ChatGPT/assets/36922629/bad17295-cda4-40e7-b379-787be7fb2f48)
 
 
+# **联系方式**
