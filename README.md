@@ -1,11 +1,11 @@
 # ChatGPT--chat.iyunci.cn
 # **介绍**
 
-基于ChatGPT 3.5 开发的数字方块AI，让数字方块AI成为你工作中的伙伴
+基于openai的GPT-3.5 turbo （ChatGPT）API接口实现的数字方块AI，可实现与官网ChatGPT接近的持续性对话效果。同时支持自定义prompt的方式，让**数字方块AI**成为你工作中的伙伴，成为私人工作助理或者企业员工助理
 
 
 
-**前端访问地址**：
+**前端访问地址**：支持自适应
 https://chat.iyunci.cn/
 
 **小程序**：欢迎扫码体验
@@ -57,6 +57,9 @@ https://chat.iyunci.cn/
 
 ![image](https://github.com/jiangwenhuang/ChatGPT/assets/36922629/bad17295-cda4-40e7-b379-787be7fb2f48)
 
+# **未来**
+接入能文心一言、ChatGLM-6B、星火、MOSS、Vicuna-7B、通义千问
+开发移动手机端
 
 # **联系方式**
 ![7f383cad16af95ea00173411d1294de](https://github.com/IYUNCI/ChatGPT--chat.iyunci.cn/assets/36922629/1a5a60cb-03b5-43b2-89f0-d4b7d803e145)
