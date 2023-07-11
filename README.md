@@ -5,8 +5,6 @@
 
 **前端访问地址**： https://chat.iyunci.cn/
 
-
-**链接**: chat.iyunci.cn
 **小程序**：
 ![gh_fda4038d9f8c_258](https://github.com/jiangwenhuang/ChatGPT/assets/36922629/56acc673-0da2-4b6e-bea7-844de9344038)
 
