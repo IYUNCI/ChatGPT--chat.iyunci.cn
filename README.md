@@ -1,7 +1,7 @@
 # ChatGPT--chat.iyunci.cn
 # **介绍**
 
-基于openai的GPT-3.5 turbo （ChatGPT）API接口实现的数字方块AI，可实现与官网ChatGPT接近的持续性对话效果。同时支持自定义prompt的方式，让**数字方块AI**成为你工作中的伙伴，成为私人工作助理或者企业员工助理
+基于openai的GPT-3.5 turbo （ChatGPT）API接口实现的数字方块AI，可实现与官网ChatGPT接近的持续性对话效果。同时支持自定义prompt的方式，让**数字方块AI**成为你工作中的伙伴，成为私人工作助理或者企业员工助理。
 
 
 
@@ -30,7 +30,7 @@ https://chat.iyunci.cn/
 
 **套餐管理**
 
-**订餐管理**
+**订单管理**
 
  
 
@@ -44,6 +44,10 @@ https://chat.iyunci.cn/
 **【数字方块prompt页面】**
 
 ![微信截图_20230711125216](https://github.com/jiangwenhuang/ChatGPT/assets/36922629/71dd606c-d40c-4d9d-95f3-6c97432820f8)
+
+**【数字方块问答页面】**
+
+![image](https://github.com/IYUNCI/ChatGPT--chat.iyunci.cn/assets/36922629/00f1d2d4-c7b8-42f4-b548-54953e0705de)
 
 **【数字方块prompt上传页面】**
 
